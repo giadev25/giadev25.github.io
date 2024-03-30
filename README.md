@@ -1,4 +1,4 @@
-# Portfolio Websit
+# Portfolio Website
 Ini adalah repository untuk website portfolio saya yang menampilkan hasil belajar saya dalam bidang programming dan desain UI/UX.
 
 ## Deskripsi
